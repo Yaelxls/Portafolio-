@@ -1,0 +1,105 @@
+C:\Users\landa\OneDrive\Documentos\Ing Software\NOTE4DAYZ\NOTE4DAYZ\bin\Debug\NOTE4DAYZ.exe.config
+C:\Users\landa\OneDrive\Documentos\Ing Software\NOTE4DAYZ\NOTE4DAYZ\bin\Debug\NOTE4DAYZ.exe.manifest
+C:\Users\landa\OneDrive\Documentos\Ing Software\NOTE4DAYZ\NOTE4DAYZ\bin\Debug\NOTE4DAYZ.application
+C:\Users\landa\OneDrive\Documentos\Ing Software\NOTE4DAYZ\NOTE4DAYZ\bin\Debug\NOTE4DAYZ.exe
+C:\Users\landa\OneDrive\Documentos\Ing Software\NOTE4DAYZ\NOTE4DAYZ\bin\Debug\NOTE4DAYZ.pdb
+C:\Users\landa\OneDrive\Documentos\Ing Software\NOTE4DAYZ\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.csproj.AssemblyReference.cache
+C:\Users\landa\OneDrive\Documentos\Ing Software\NOTE4DAYZ\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.CheckList.FrmChecList.resources
+C:\Users\landa\OneDrive\Documentos\Ing Software\NOTE4DAYZ\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.Desarrollador.FrmAgregarUser.resources
+C:\Users\landa\OneDrive\Documentos\Ing Software\NOTE4DAYZ\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.Desarrollador.FrmEditarUser.resources
+C:\Users\landa\OneDrive\Documentos\Ing Software\NOTE4DAYZ\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.Desarrollador.FrmEliminarUser.resources
+C:\Users\landa\OneDrive\Documentos\Ing Software\NOTE4DAYZ\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.Desarrollador.FrmPersonalizar.resources
+C:\Users\landa\OneDrive\Documentos\Ing Software\NOTE4DAYZ\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.FrmCompletado.resources
+C:\Users\landa\OneDrive\Documentos\Ing Software\NOTE4DAYZ\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.FrmEmailError.resources
+C:\Users\landa\OneDrive\Documentos\Ing Software\NOTE4DAYZ\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.FrmError.resources
+C:\Users\landa\OneDrive\Documentos\Ing Software\NOTE4DAYZ\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.Excepciones.FrmTerminosError.resources
+C:\Users\landa\OneDrive\Documentos\Ing Software\NOTE4DAYZ\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.Nota.FrmConsultarNota.resources
+C:\Users\landa\OneDrive\Documentos\Ing Software\NOTE4DAYZ\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.FrmCrearNota.resources
+C:\Users\landa\OneDrive\Documentos\Ing Software\NOTE4DAYZ\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.BarraTitulo.resources
+C:\Users\landa\OneDrive\Documentos\Ing Software\NOTE4DAYZ\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.NOTE4DAYZ.resources
+C:\Users\landa\OneDrive\Documentos\Ing Software\NOTE4DAYZ\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.FrmRegistroError.resources
+C:\Users\landa\OneDrive\Documentos\Ing Software\NOTE4DAYZ\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.Nota.FrmEliminarNota.resources
+C:\Users\landa\OneDrive\Documentos\Ing Software\NOTE4DAYZ\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.Nota.FrmModiFecha.resources
+C:\Users\landa\OneDrive\Documentos\Ing Software\NOTE4DAYZ\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.PanelInicio.resources
+C:\Users\landa\OneDrive\Documentos\Ing Software\NOTE4DAYZ\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.Properties.Resources.resources
+C:\Users\landa\OneDrive\Documentos\Ing Software\NOTE4DAYZ\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.FrmRegistro.resources
+C:\Users\landa\OneDrive\Documentos\Ing Software\NOTE4DAYZ\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.Recordatorio.FrmCrearRecordatorio.resources
+C:\Users\landa\OneDrive\Documentos\Ing Software\NOTE4DAYZ\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.Reportes.FrmReporteActividades.resources
+C:\Users\landa\OneDrive\Documentos\Ing Software\NOTE4DAYZ\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.Reportes.FrmReporteTiempoUso.resources
+C:\Users\landa\OneDrive\Documentos\Ing Software\NOTE4DAYZ\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.Seguridad.FrmCarpetasProtegidas.resources
+C:\Users\landa\OneDrive\Documentos\Ing Software\NOTE4DAYZ\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.csproj.GenerateResource.cache
+C:\Users\landa\OneDrive\Documentos\Ing Software\NOTE4DAYZ\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.csproj.CoreCompileInputs.cache
+C:\Users\landa\OneDrive\Documentos\Ing Software\NOTE4DAYZ\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.exe.manifest
+C:\Users\landa\OneDrive\Documentos\Ing Software\NOTE4DAYZ\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.application
+C:\Users\landa\OneDrive\Documentos\Ing Software\NOTE4DAYZ\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.exe
+C:\Users\landa\OneDrive\Documentos\Ing Software\NOTE4DAYZ\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.pdb
+C:\Users\landa\OneDrive\Escritorio\NOTE4DAYZ\bin\Debug\NOTE4DAYZ.exe.config
+C:\Users\landa\OneDrive\Escritorio\NOTE4DAYZ\bin\Debug\NOTE4DAYZ.exe.manifest
+C:\Users\landa\OneDrive\Escritorio\NOTE4DAYZ\bin\Debug\NOTE4DAYZ.application
+C:\Users\landa\OneDrive\Escritorio\NOTE4DAYZ\bin\Debug\NOTE4DAYZ.exe
+C:\Users\landa\OneDrive\Escritorio\NOTE4DAYZ\bin\Debug\NOTE4DAYZ.pdb
+C:\Users\landa\OneDrive\Escritorio\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.csproj.AssemblyReference.cache
+C:\Users\landa\OneDrive\Escritorio\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.CheckList.FrmChecList.resources
+C:\Users\landa\OneDrive\Escritorio\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.Desarrollador.FrmAgregarUser.resources
+C:\Users\landa\OneDrive\Escritorio\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.Desarrollador.FrmEditarUser.resources
+C:\Users\landa\OneDrive\Escritorio\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.Desarrollador.FrmEliminarUser.resources
+C:\Users\landa\OneDrive\Escritorio\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.Desarrollador.FrmPersonalizar.resources
+C:\Users\landa\OneDrive\Escritorio\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.FrmCompletado.resources
+C:\Users\landa\OneDrive\Escritorio\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.FrmEmailError.resources
+C:\Users\landa\OneDrive\Escritorio\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.FrmError.resources
+C:\Users\landa\OneDrive\Escritorio\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.Excepciones.FrmTerminosError.resources
+C:\Users\landa\OneDrive\Escritorio\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.Nota.FrmConsultarNota.resources
+C:\Users\landa\OneDrive\Escritorio\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.FrmCrearNota.resources
+C:\Users\landa\OneDrive\Escritorio\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.BarraTitulo.resources
+C:\Users\landa\OneDrive\Escritorio\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.NOTE4DAYZ.resources
+C:\Users\landa\OneDrive\Escritorio\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.FrmRegistroError.resources
+C:\Users\landa\OneDrive\Escritorio\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.Nota.FrmEliminarNota.resources
+C:\Users\landa\OneDrive\Escritorio\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.Nota.FrmModiFecha.resources
+C:\Users\landa\OneDrive\Escritorio\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.PanelInicio.resources
+C:\Users\landa\OneDrive\Escritorio\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.Properties.Resources.resources
+C:\Users\landa\OneDrive\Escritorio\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.FrmRegistro.resources
+C:\Users\landa\OneDrive\Escritorio\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.Recordatorio.FrmCrearRecordatorio.resources
+C:\Users\landa\OneDrive\Escritorio\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.Reportes.FrmReporteActividades.resources
+C:\Users\landa\OneDrive\Escritorio\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.Reportes.FrmReporteTiempoUso.resources
+C:\Users\landa\OneDrive\Escritorio\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.Seguridad.FrmCarpetasProtegidas.resources
+C:\Users\landa\OneDrive\Escritorio\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.csproj.GenerateResource.cache
+C:\Users\landa\OneDrive\Escritorio\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.csproj.CoreCompileInputs.cache
+C:\Users\landa\OneDrive\Escritorio\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.exe.manifest
+C:\Users\landa\OneDrive\Escritorio\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.application
+C:\Users\landa\OneDrive\Escritorio\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.exe
+C:\Users\landa\OneDrive\Escritorio\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.pdb
+C:\Users\landa\OneDrive\Escritorio\NOTE4DAYZ\NOTE4DAYZ\bin\Debug\NOTE4DAYZ.exe.config
+C:\Users\landa\OneDrive\Escritorio\NOTE4DAYZ\NOTE4DAYZ\bin\Debug\NOTE4DAYZ.exe.manifest
+C:\Users\landa\OneDrive\Escritorio\NOTE4DAYZ\NOTE4DAYZ\bin\Debug\NOTE4DAYZ.application
+C:\Users\landa\OneDrive\Escritorio\NOTE4DAYZ\NOTE4DAYZ\bin\Debug\NOTE4DAYZ.exe
+C:\Users\landa\OneDrive\Escritorio\NOTE4DAYZ\NOTE4DAYZ\bin\Debug\NOTE4DAYZ.pdb
+C:\Users\landa\OneDrive\Escritorio\NOTE4DAYZ\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.csproj.AssemblyReference.cache
+C:\Users\landa\OneDrive\Escritorio\NOTE4DAYZ\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.CheckList.FrmChecList.resources
+C:\Users\landa\OneDrive\Escritorio\NOTE4DAYZ\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.Desarrollador.FrmAgregarUser.resources
+C:\Users\landa\OneDrive\Escritorio\NOTE4DAYZ\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.Desarrollador.FrmEditarUser.resources
+C:\Users\landa\OneDrive\Escritorio\NOTE4DAYZ\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.Desarrollador.FrmEliminarUser.resources
+C:\Users\landa\OneDrive\Escritorio\NOTE4DAYZ\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.Desarrollador.FrmPersonalizar.resources
+C:\Users\landa\OneDrive\Escritorio\NOTE4DAYZ\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.FrmCompletado.resources
+C:\Users\landa\OneDrive\Escritorio\NOTE4DAYZ\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.FrmEmailError.resources
+C:\Users\landa\OneDrive\Escritorio\NOTE4DAYZ\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.FrmError.resources
+C:\Users\landa\OneDrive\Escritorio\NOTE4DAYZ\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.Excepciones.FrmTerminosError.resources
+C:\Users\landa\OneDrive\Escritorio\NOTE4DAYZ\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.Nota.FrmConsultarNota.resources
+C:\Users\landa\OneDrive\Escritorio\NOTE4DAYZ\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.FrmCrearNota.resources
+C:\Users\landa\OneDrive\Escritorio\NOTE4DAYZ\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.BarraTitulo.resources
+C:\Users\landa\OneDrive\Escritorio\NOTE4DAYZ\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.NOTE4DAYZ.resources
+C:\Users\landa\OneDrive\Escritorio\NOTE4DAYZ\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.FrmRegistroError.resources
+C:\Users\landa\OneDrive\Escritorio\NOTE4DAYZ\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.Nota.FrmEliminarNota.resources
+C:\Users\landa\OneDrive\Escritorio\NOTE4DAYZ\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.Nota.FrmModiFecha.resources
+C:\Users\landa\OneDrive\Escritorio\NOTE4DAYZ\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.PanelInicio.resources
+C:\Users\landa\OneDrive\Escritorio\NOTE4DAYZ\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.Properties.Resources.resources
+C:\Users\landa\OneDrive\Escritorio\NOTE4DAYZ\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.FrmRegistro.resources
+C:\Users\landa\OneDrive\Escritorio\NOTE4DAYZ\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.Recordatorio.FrmCrearRecordatorio.resources
+C:\Users\landa\OneDrive\Escritorio\NOTE4DAYZ\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.Reportes.FrmReporteActividades.resources
+C:\Users\landa\OneDrive\Escritorio\NOTE4DAYZ\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.Reportes.FrmReporteTiempoUso.resources
+C:\Users\landa\OneDrive\Escritorio\NOTE4DAYZ\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.Seguridad.FrmCarpetasProtegidas.resources
+C:\Users\landa\OneDrive\Escritorio\NOTE4DAYZ\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.csproj.GenerateResource.cache
+C:\Users\landa\OneDrive\Escritorio\NOTE4DAYZ\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.csproj.CoreCompileInputs.cache
+C:\Users\landa\OneDrive\Escritorio\NOTE4DAYZ\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.exe.manifest
+C:\Users\landa\OneDrive\Escritorio\NOTE4DAYZ\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.application
+C:\Users\landa\OneDrive\Escritorio\NOTE4DAYZ\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.exe
+C:\Users\landa\OneDrive\Escritorio\NOTE4DAYZ\NOTE4DAYZ\obj\Debug\NOTE4DAYZ.pdb

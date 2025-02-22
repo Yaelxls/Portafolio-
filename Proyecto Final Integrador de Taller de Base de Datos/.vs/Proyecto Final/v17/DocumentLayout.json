@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\landa\\OneDrive\\Documentos\\Taller de Base de Datos\\Proyecto\\Proyecto Final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{874B2343-6BC7-49BD-9809-15B0F7FF4C93}|Proyecto Final.csproj|c:\\users\\landa\\onedrive\\documentos\\taller de base de datos\\proyecto\\proyecto final\\consultas\\frmtablaauditoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874B2343-6BC7-49BD-9809-15B0F7FF4C93}|Proyecto Final.csproj|solutionrelative:consultas\\frmtablaauditoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874B2343-6BC7-49BD-9809-15B0F7FF4C93}|Proyecto Final.csproj|c:\\users\\landa\\onedrive\\documentos\\taller de base de datos\\proyecto\\proyecto final\\consultas\\frmtablaestablecimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874B2343-6BC7-49BD-9809-15B0F7FF4C93}|Proyecto Final.csproj|solutionrelative:consultas\\frmtablaestablecimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874B2343-6BC7-49BD-9809-15B0F7FF4C93}|Proyecto Final.csproj|c:\\users\\landa\\onedrive\\documentos\\taller de base de datos\\proyecto\\proyecto final\\consultas\\frmmodificar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874B2343-6BC7-49BD-9809-15B0F7FF4C93}|Proyecto Final.csproj|solutionrelative:consultas\\frmmodificar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874B2343-6BC7-49BD-9809-15B0F7FF4C93}|Proyecto Final.csproj|c:\\users\\landa\\onedrive\\documentos\\taller de base de datos\\proyecto\\proyecto final\\consultas\\frmactualizar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874B2343-6BC7-49BD-9809-15B0F7FF4C93}|Proyecto Final.csproj|solutionrelative:consultas\\frmactualizar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874B2343-6BC7-49BD-9809-15B0F7FF4C93}|Proyecto Final.csproj|c:\\users\\landa\\onedrive\\documentos\\taller de base de datos\\proyecto\\proyecto final\\consultas\\frmeliminar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874B2343-6BC7-49BD-9809-15B0F7FF4C93}|Proyecto Final.csproj|solutionrelative:consultas\\frmeliminar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmTablaAuditoria.cs",
+              "DocumentMoniker": "C:\\Users\\landa\\OneDrive\\Documentos\\Taller de Base de Datos\\Proyecto\\Proyecto Final\\Consultas\\FrmTablaAuditoria.cs",
+              "RelativeDocumentMoniker": "Consultas\\FrmTablaAuditoria.cs",
+              "ToolTip": "C:\\Users\\landa\\OneDrive\\Documentos\\Taller de Base de Datos\\Proyecto\\Proyecto Final\\Consultas\\FrmTablaAuditoria.cs",
+              "RelativeToolTip": "Consultas\\FrmTablaAuditoria.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwDEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T04:42:22.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmTablaEstablecimiento.cs",
+              "DocumentMoniker": "C:\\Users\\landa\\OneDrive\\Documentos\\Taller de Base de Datos\\Proyecto\\Proyecto Final\\Consultas\\FrmTablaEstablecimiento.cs",
+              "RelativeDocumentMoniker": "Consultas\\FrmTablaEstablecimiento.cs",
+              "ToolTip": "C:\\Users\\landa\\OneDrive\\Documentos\\Taller de Base de Datos\\Proyecto\\Proyecto Final\\Consultas\\FrmTablaEstablecimiento.cs",
+              "RelativeToolTip": "Consultas\\FrmTablaEstablecimiento.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAkwF4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T04:35:46.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmEliminar.cs",
+              "DocumentMoniker": "C:\\Users\\landa\\OneDrive\\Documentos\\Taller de Base de Datos\\Proyecto\\Proyecto Final\\Consultas\\FrmEliminar.cs",
+              "RelativeDocumentMoniker": "Consultas\\FrmEliminar.cs",
+              "ToolTip": "C:\\Users\\landa\\OneDrive\\Documentos\\Taller de Base de Datos\\Proyecto\\Proyecto Final\\Consultas\\FrmEliminar.cs",
+              "RelativeToolTip": "Consultas\\FrmEliminar.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAACPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T04:32:30.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmModificar.cs",
+              "DocumentMoniker": "C:\\Users\\landa\\OneDrive\\Documentos\\Taller de Base de Datos\\Proyecto\\Proyecto Final\\Consultas\\FrmModificar.cs",
+              "RelativeDocumentMoniker": "Consultas\\FrmModificar.cs",
+              "ToolTip": "C:\\Users\\landa\\OneDrive\\Documentos\\Taller de Base de Datos\\Proyecto\\Proyecto Final\\Consultas\\FrmModificar.cs",
+              "RelativeToolTip": "Consultas\\FrmModificar.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwDEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T04:28:23.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmActualizar.cs",
+              "DocumentMoniker": "C:\\Users\\landa\\OneDrive\\Documentos\\Taller de Base de Datos\\Proyecto\\Proyecto Final\\Consultas\\FrmActualizar.cs",
+              "RelativeDocumentMoniker": "Consultas\\FrmActualizar.cs",
+              "ToolTip": "C:\\Users\\landa\\OneDrive\\Documentos\\Taller de Base de Datos\\Proyecto\\Proyecto Final\\Consultas\\FrmActualizar.cs",
+              "RelativeToolTip": "Consultas\\FrmActualizar.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwFYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T04:27:31.224Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

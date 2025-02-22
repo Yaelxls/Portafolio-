@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\landa\\OneDrive\\Escritorio\\NOTE4DAYZ\\NOTE4DAYZ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{727CA7F8-64F0-484F-A89F-81DEC2CEEA5F}|NOTE4DAYZ.csproj|c:\\users\\landa\\onedrive\\escritorio\\note4dayz\\note4dayz\\sesionusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{727CA7F8-64F0-484F-A89F-81DEC2CEEA5F}|NOTE4DAYZ.csproj|solutionrelative:sesionusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SesionUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\landa\\OneDrive\\Escritorio\\NOTE4DAYZ\\NOTE4DAYZ\\SesionUsuario.cs",
+              "RelativeDocumentMoniker": "SesionUsuario.cs",
+              "ToolTip": "C:\\Users\\landa\\OneDrive\\Escritorio\\NOTE4DAYZ\\NOTE4DAYZ\\SesionUsuario.cs",
+              "RelativeToolTip": "SesionUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T17:46:51.007Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

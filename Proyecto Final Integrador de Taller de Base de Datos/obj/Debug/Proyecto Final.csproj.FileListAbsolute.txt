@@ -1,0 +1,18 @@
+C:\Users\landa\OneDrive\Documentos\Taller de Base de Datos\Proyecto\Proyecto Final\bin\Debug\Proyecto Final.exe.config
+C:\Users\landa\OneDrive\Documentos\Taller de Base de Datos\Proyecto\Proyecto Final\bin\Debug\Proyecto Final.exe
+C:\Users\landa\OneDrive\Documentos\Taller de Base de Datos\Proyecto\Proyecto Final\bin\Debug\Proyecto Final.pdb
+C:\Users\landa\OneDrive\Documentos\Taller de Base de Datos\Proyecto\Proyecto Final\obj\Debug\Proyecto Final.csproj.AssemblyReference.cache
+C:\Users\landa\OneDrive\Documentos\Taller de Base de Datos\Proyecto\Proyecto Final\obj\Debug\Proyecto_Final.Consultas.FrmActualizar.resources
+C:\Users\landa\OneDrive\Documentos\Taller de Base de Datos\Proyecto\Proyecto Final\obj\Debug\Proyecto_Final.Consultas.FrmEliminar.resources
+C:\Users\landa\OneDrive\Documentos\Taller de Base de Datos\Proyecto\Proyecto Final\obj\Debug\Proyecto_Final.Formularios.FrmInsertar.resources
+C:\Users\landa\OneDrive\Documentos\Taller de Base de Datos\Proyecto\Proyecto Final\obj\Debug\Proyecto_Final.Consultas.FrmModificar.resources
+C:\Users\landa\OneDrive\Documentos\Taller de Base de Datos\Proyecto\Proyecto Final\obj\Debug\Proyecto_Final.Consultas.FrmTablaAuditoria.resources
+C:\Users\landa\OneDrive\Documentos\Taller de Base de Datos\Proyecto\Proyecto Final\obj\Debug\Proyecto_Final.Consultas.FrmTablaEstablecimiento.resources
+C:\Users\landa\OneDrive\Documentos\Taller de Base de Datos\Proyecto\Proyecto Final\obj\Debug\Proyecto_Final.FrmInicio.resources
+C:\Users\landa\OneDrive\Documentos\Taller de Base de Datos\Proyecto\Proyecto Final\obj\Debug\Proyecto_Final.FrmLogin.resources
+C:\Users\landa\OneDrive\Documentos\Taller de Base de Datos\Proyecto\Proyecto Final\obj\Debug\Proyecto_Final.FrmPanelInicio.resources
+C:\Users\landa\OneDrive\Documentos\Taller de Base de Datos\Proyecto\Proyecto Final\obj\Debug\Proyecto_Final.Properties.Resources.resources
+C:\Users\landa\OneDrive\Documentos\Taller de Base de Datos\Proyecto\Proyecto Final\obj\Debug\Proyecto Final.csproj.GenerateResource.cache
+C:\Users\landa\OneDrive\Documentos\Taller de Base de Datos\Proyecto\Proyecto Final\obj\Debug\Proyecto Final.csproj.CoreCompileInputs.cache
+C:\Users\landa\OneDrive\Documentos\Taller de Base de Datos\Proyecto\Proyecto Final\obj\Debug\Proyecto Final.exe
+C:\Users\landa\OneDrive\Documentos\Taller de Base de Datos\Proyecto\Proyecto Final\obj\Debug\Proyecto Final.pdb

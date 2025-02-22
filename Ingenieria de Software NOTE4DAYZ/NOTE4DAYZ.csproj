@@ -1,0 +1,329 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{727CA7F8-64F0-484F-A89F-81DEC2CEEA5F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>NOTE4DAYZ</RootNamespace>
+    <AssemblyName>NOTE4DAYZ</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\landa\OneDrive\Escritorio\NOTE4DAYZ\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <WebPage>publish.htm</WebPage>
+    <AutorunEnabled>true</AutorunEnabled>
+    <ApplicationRevision>4</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>libros.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>DB29F1F3934B82B081A2E20DA56AFF3C0ECCDBF9</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>NOTE4DAYZ_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UIAutomationProvider" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="WindowsFormsIntegration" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CheckList\FrmChecList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CheckList\FrmChecList.Designer.cs">
+      <DependentUpon>FrmChecList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Desarrollador\FrmAgregarUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Desarrollador\FrmAgregarUser.Designer.cs">
+      <DependentUpon>FrmAgregarUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Desarrollador\FrmEditarUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Desarrollador\FrmEditarUser.Designer.cs">
+      <DependentUpon>FrmEditarUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Desarrollador\FrmEliminarUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Desarrollador\FrmEliminarUser.Designer.cs">
+      <DependentUpon>FrmEliminarUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Desarrollador\FrmPersonalizar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Desarrollador\FrmPersonalizar.Designer.cs">
+      <DependentUpon>FrmPersonalizar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Excepciones\FrmCompletado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Excepciones\FrmCompletado.Designer.cs">
+      <DependentUpon>FrmCompletado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Excepciones\FrmEmailError.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Excepciones\FrmEmailError.Designer.cs">
+      <DependentUpon>FrmEmailError.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Excepciones\FrmError.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Excepciones\FrmError.Designer.cs">
+      <DependentUpon>FrmError.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Excepciones\FrmTerminosError.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Excepciones\FrmTerminosError.Designer.cs">
+      <DependentUpon>FrmTerminosError.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nota\FrmConsultarNota.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nota\FrmConsultarNota.Designer.cs">
+      <DependentUpon>FrmConsultarNota.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nota\FrmCrearNota.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nota\FrmCrearNota.Designer.cs">
+      <DependentUpon>FrmCrearNota.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmInicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmInicio.Designer.cs">
+      <DependentUpon>FrmInicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login\FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login\FrmLogin.Designer.cs">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Excepciones\FrmRegistroError.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Excepciones\FrmRegistroError.Designer.cs">
+      <DependentUpon>FrmRegistroError.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nota\FrmEliminarNota.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nota\FrmEliminarNota.Designer.cs">
+      <DependentUpon>FrmEliminarNota.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nota\FrmModiFecha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nota\FrmModiFecha.Designer.cs">
+      <DependentUpon>FrmModiFecha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PanelInicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PanelInicio.Designer.cs">
+      <DependentUpon>PanelInicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Login\FrmRegistro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login\FrmRegistro.Designer.cs">
+      <DependentUpon>FrmRegistro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Recordatorio\FrmCrearRecordatorio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recordatorio\FrmCrearRecordatorio.Designer.cs">
+      <DependentUpon>FrmCrearRecordatorio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\FrmReporteActividades.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\FrmReporteActividades.Designer.cs">
+      <DependentUpon>FrmReporteActividades.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\FrmReporteTiempoUso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\FrmReporteTiempoUso.Designer.cs">
+      <DependentUpon>FrmReporteTiempoUso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Seguridad\FrmCarpetasProtegidas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Seguridad\FrmCarpetasProtegidas.Designer.cs">
+      <DependentUpon>FrmCarpetasProtegidas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SesionUsuario.cs" />
+    <EmbeddedResource Include="CheckList\FrmChecList.resx">
+      <DependentUpon>FrmChecList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Desarrollador\FrmAgregarUser.resx">
+      <DependentUpon>FrmAgregarUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Desarrollador\FrmEditarUser.resx">
+      <DependentUpon>FrmEditarUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Desarrollador\FrmEliminarUser.resx">
+      <DependentUpon>FrmEliminarUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Desarrollador\FrmPersonalizar.resx">
+      <DependentUpon>FrmPersonalizar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Excepciones\FrmCompletado.resx">
+      <DependentUpon>FrmCompletado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Excepciones\FrmEmailError.resx">
+      <DependentUpon>FrmEmailError.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Excepciones\FrmError.resx">
+      <DependentUpon>FrmError.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Excepciones\FrmTerminosError.resx">
+      <DependentUpon>FrmTerminosError.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nota\FrmConsultarNota.resx">
+      <DependentUpon>FrmConsultarNota.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nota\FrmCrearNota.resx">
+      <DependentUpon>FrmCrearNota.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmInicio.resx">
+      <DependentUpon>FrmInicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login\FrmLogin.resx">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Excepciones\FrmRegistroError.resx">
+      <DependentUpon>FrmRegistroError.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nota\FrmEliminarNota.resx">
+      <DependentUpon>FrmEliminarNota.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nota\FrmModiFecha.resx">
+      <DependentUpon>FrmModiFecha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PanelInicio.resx">
+      <DependentUpon>PanelInicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Login\FrmRegistro.resx">
+      <DependentUpon>FrmRegistro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Recordatorio\FrmCrearRecordatorio.resx">
+      <DependentUpon>FrmCrearRecordatorio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\FrmReporteActividades.resx">
+      <DependentUpon>FrmReporteActividades.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\FrmReporteTiempoUso.resx">
+      <DependentUpon>FrmReporteTiempoUso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Seguridad\FrmCarpetasProtegidas.resx">
+      <DependentUpon>FrmCarpetasProtegidas.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.8">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.8 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="libros.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
